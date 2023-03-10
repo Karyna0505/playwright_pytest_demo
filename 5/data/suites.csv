@@ -1,0 +1,36 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 10 15:37:03 GMT 2023","Fri Mar 10 15:37:04 GMT 2023","289","tests","test_buttons","TestButtons","","","test_the_click_button","
+        Test to verify the functionality of the dynamic button
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
+"passed","Fri Mar 10 15:37:12 GMT 2023","Fri Mar 10 15:37:12 GMT 2023","296","tests","test_radio_buttons","TestRadioButtons","","","test_radio_buttons[chromium]","
+        Test to verify the radio buttons on the page
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
+"passed","Fri Mar 10 15:36:58 GMT 2023","Fri Mar 10 15:36:59 GMT 2023","665","tests","test_buttons","TestButtons","","","test_double_click_button","
+        Test to verify the functionality of the double click button
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
+"passed","Fri Mar 10 15:37:09 GMT 2023","Fri Mar 10 15:37:10 GMT 2023","1112","tests","test_dropdown_menu","TestDropdownMenu","","","test_select_menu[chromium]","
+        Test to verify all dropdown menus on the page
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
+"passed","Fri Mar 10 15:37:14 GMT 2023","Fri Mar 10 15:37:15 GMT 2023","613","tests","test_text_box","TestTextBox","","","test_text_box[chromium]","
+        Test to verify the input fields and output form on the page
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
+"passed","Fri Mar 10 15:37:01 GMT 2023","Fri Mar 10 15:37:01 GMT 2023","116","tests","test_buttons","TestButtons","","","test_right_click_button","
+        Test to verify the functionality of the Right Mouse Button click button
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
+"passed","Fri Mar 10 15:37:06 GMT 2023","Fri Mar 10 15:37:07 GMT 2023","676","tests","test_check_boxes","TestCheckBox","","","test_text_boxes[chromium]","
+        Test to verify the checkboxes on the page
+        :param test_setup: setting up the browser and page objects
+        :return: None
+        "
